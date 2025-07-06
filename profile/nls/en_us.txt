@@ -1,0 +1,5 @@
+ND-000 = Hello World Node
+CMD-QUERY = Query
+ST-ST = Status
+IX_BOOL-0 = False
+IX_BOOL-1 = True

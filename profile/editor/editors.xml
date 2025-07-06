@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editors>
+    <!-- Basic editor definitions for Hello World NodeServer -->
+    <editor id="GEN_HELLO">
+        <range uom="2" subset="0,1" nls="IX_BOOL" />
+    </editor>
+</editors>

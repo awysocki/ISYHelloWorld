@@ -1,0 +1,12 @@
+{
+  "name": "ISYHelloWorld",
+  "type": "python3",
+  "executable": "server.py",
+  "install": "install.sh",
+  "description": "A minimal Polyglot v3 Hello World NodeServer",
+  "license": "Unlicense",
+  "shortPoll": "60",
+  "longPoll": "300",
+  "profile_version": "1.0.8",
+  "version": "1.0.8"
+}

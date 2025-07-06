@@ -1,0 +1,6 @@
+[HELLO]
+id = HELLO
+name = Hello World Node
+generic = GEN_HELLO
+drivers = ST
+commands = QUERY
